@@ -1,16 +1,22 @@
 {
-    "blogs": [
-        {
-            "title": "My New Website", 
-            "body":"This is my new website. I have created it with Reactjs. A library of Javascript. React is a popular framework in this present day. I wish my website brings a smile on your face.", 
-            "author": "Sarah", 
-            "id":1
-        },
-        {
-            "title": "Welcome On Boarde", 
-            "body":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Et vel suscipit error excepturi perspiciatis voluptatibus labore magnam officiis necessitatibus consectetur deserunt aliquam nobis animi laboriosam cum, voluptas omnis accusantium earum.", 
-            "author": "Mariah", 
-            "id":2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "Welcome On Boarde",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et vel suscipit error excepturi perspiciatis voluptatibus labore magnam officiis necessitatibus consectetur deserunt aliquam nobis animi laboriosam cum, voluptas omnis accusantium earum.",
+      "author": "Mariah",
+      "id": 2
+    },
+    {
+      "title": "My New Website",
+      "body": "This is my new website. I have done this with the help of a youtube tutorial",
+      "author": "yoshi",
+      "id": 3
+    },
+    {
+      "title": "Hey",
+      "body": "This is a hey message",
+      "author": "yoshi",
+      "id": 4
+    }
+  ]
 }
